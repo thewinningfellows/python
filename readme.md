@@ -8,6 +8,12 @@ this is how to do link: [Go to Google](google.com)
 
 ### More cool styles
 
+lets do a list here:
+
+1. item 1
+2. item 2
+3. item 3
+
 ### html
 
 <dl>
