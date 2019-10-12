@@ -1,3 +1,4 @@
-print("hello world")
-
-print ("Guru99", end = '!')
+def main():
+  print("Hello World!")
+  
+main()
