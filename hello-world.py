@@ -1,4 +1,5 @@
 def main():
-  print("Hello World!")
+  test = 'hello world'
+  print(test)
   
 main()
